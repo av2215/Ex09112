@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/plus"
+        android:orderInCategory="100"
+        android:title="plus" />
+    <item
+        android:id="@+id/minus"
+        android:orderInCategory="200"
+        android:title="minus" />
+    <item
+        android:id="@+id/kefel"
+        android:orderInCategory="300"
+        android:title="kefel" />
+    <item
+        android:id="@+id/hilook"
+        android:orderInCategory="400"
+        android:title="hilook" />
+    <item
+        android:id="@+id/c"
+        android:orderInCategory="500"
+        android:title="C" />
+</menu>
